@@ -30,6 +30,10 @@
  - 在Tab页上右键 > Move Right (Down)，把当前Tab页移动到窗口右边（下边）方便对比
  - 右键左侧文件列表中某个文件 > Local History 能够查看文件修改前后对比
  - SSH Terminal: Settings > Tools > SSH Terminal > Default encoding: UTF-8
+ - Ctrl + 鼠标滚轮改变字体大小：File > Settings > Editor > General > mouse > Change font size(Zoom) ...
+ - 让当前打开的代码文件自动遵循PEP 8 规范： Code > Reformat Code
+ - 修改当前python文件运行设置： 第二行导航栏 > 找到当前文件名的菜单 > Edit Configurations
+    
  
  ## https://english.sogou.com
  
